@@ -1,5 +1,5 @@
 
-# React TODO App (Pure CSS)
+# TODO App 
 
 Bu proje React kullanılarak geliştirilmiş basit bir TODO uygulamasıdır.
 

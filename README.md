@@ -13,16 +13,3 @@ Bu proje React kullanılarak geliştirilmiş basit bir TODO uygulamasıdır.
 - ReactJS
 - Pure CSS
 
-## Kurulum
-
-```
-npm install
-npm start
-```
-
-## Netlify Yayınlama
-
-1. Github'a yükle
-2. Netlify -> Import from Github
-3. Deploy
-

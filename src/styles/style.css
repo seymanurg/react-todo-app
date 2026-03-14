@@ -1,0 +1,39 @@
+
+body{
+font-family:Arial, sans-serif;
+background:#f4f4f4;
+}
+
+.container{
+width:500px;
+margin:50px auto;
+text-align:center;
+}
+
+input{
+padding:8px;
+width:60%;
+}
+
+button{
+padding:8px 12px;
+margin-left:5px;
+cursor:pointer;
+}
+
+.todo-item{
+background:white;
+padding:10px;
+margin-top:10px;
+display:flex;
+justify-content:space-between;
+}
+
+.delete{
+background:red;
+color:white;
+}
+
+.update{
+background:orange;
+}
